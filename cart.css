@@ -1,0 +1,21 @@
+.checkout-page{
+    padding:30px;
+}
+
+.checkout-page form{
+    width:400px;
+}
+
+.checkout-page input,
+.checkout-page textarea{
+    width:100%;
+    padding:12px;
+    margin-bottom:15px;
+}
+
+.checkout-page button{
+    padding:12px 20px;
+    background:black;
+    color:white;
+    border:none;
+}
