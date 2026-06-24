@@ -1,0 +1,35 @@
+.product-details{
+    display:flex;
+    gap:40px;
+    padding:40px;
+}
+
+.product-image img{
+    width:400px;
+    border-radius:10px;
+}
+
+.product-info{
+    width:500px;
+}
+
+.product-info h1{
+    margin-bottom:20px;
+}
+
+.product-info p{
+    margin:10px 0;
+}
+
+.product-info input{
+    width:60px;
+    padding:8px;
+}
+
+.product-info button{
+    padding:10px 20px;
+    background:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
